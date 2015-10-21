@@ -2,6 +2,9 @@
 Changelog for package romeo_description
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.2 (2015-10-21)
+------------------
+
 0.1.1 (2015-10-21)
 ------------------
 * update to the latest naoqi_tools script
