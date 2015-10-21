@@ -2,6 +2,11 @@
 Changelog for package romeo_sensors
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.1 (2015-10-21)
+------------------
+* rename romeo_sensors to romeo_sensors_py
+* Contributors: Vincent Rabaud
+
 0.1.0 (2015-10-08)
 ------------------
 * update the maintainer and make it architecture independent
