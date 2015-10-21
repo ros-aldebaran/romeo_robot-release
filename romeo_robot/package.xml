@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>romeo_robot</name>
-  <version>0.1.1</version>
+  <version>0.1.2</version>
   <description>The romeo_robot metapackage</description>
 
   <author email="mikael.arguedas@gmail.com">Mikael Arguedas</author>
@@ -15,6 +15,6 @@
   </export>
 
   <run_depend>romeo_description</run_depend>
-  <run_depend>romeo_sensors</run_depend>
+  <run_depend>romeo_sensors_py</run_depend>
 
 </package>
