@@ -2,6 +2,11 @@
 Changelog for package romeo_dcm_bringup
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.1 (2015-10-21)
+------------------
+* Removing the namespace prefix and fixing the head controllers with correct joint names (the HeadYaw joint does not exist)
+* Contributors: nlyubova
+
 0.1.0 (2015-10-08)
 ------------------
 

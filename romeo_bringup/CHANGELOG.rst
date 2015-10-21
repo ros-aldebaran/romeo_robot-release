@@ -1,9 +1,17 @@
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Changelog for package romeo_robot
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Changelog for package romeo_bringup
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 0.1.1 (2015-10-21)
 ------------------
+* add a cHANGELOG for romeo_bringup
+* artifically bump romeo_bringup's version for a proper release
+* Adding new package romeo_bringup
+* Contributors: Vincent Rabaud, nlyubova
+
+* artifically bump romeo_bringup's version for a proper release
+* Adding new package romeo_bringup
+* Contributors: Vincent Rabaud, nlyubova
 
 0.1.0 (2015-10-08)
 ------------------
@@ -11,13 +19,11 @@ Changelog for package romeo_robot
 0.0.13 (2014-12-04)
 -------------------
 
-0.0.12 (2014-11-26)
--------------------
+0.0.12 (2014-11-26 18:58)
+-------------------------
 
-0.0.11 (2014-11-26)
--------------------
-* added romeo_robot metapackage
-* Contributors: Mikael ARGUEDAS
+0.0.11 (2014-11-26 14:05)
+-------------------------
 
 0.0.10 (2014-11-13)
 -------------------
