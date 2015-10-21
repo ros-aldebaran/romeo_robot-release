@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>romeo_sensors</name>
+  <version>0.1.0</version>
+  <description>The romeo_sensors package</description>
+
+  <maintainer email="vincent.rabaud@gmail.com">Vincent Rabaud</maintainer>
+
+  <license>BSD</license>
+
+  <author email="hris2003@gmail.com">Ha Dang</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <exec_depend>cv_bridge</exec_depend>
+  <exec_depend>naoqi_sensors_py</exec_depend>
+  <exec_depend>rospy</exec_depend>
+
+  <export>
+    <architecture_independent/>
+  </export>
+</package>
