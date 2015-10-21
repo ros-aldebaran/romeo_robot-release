@@ -2,6 +2,11 @@
 Changelog for package romeo_robot
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.2 (2015-10-21)
+------------------
+* fix dependency
+* Contributors: Vincent Rabaud
+
 0.1.1 (2015-10-21)
 ------------------
 
