@@ -1,0 +1,12 @@
+Source: ros-indigo-romeo-bringup
+Section: misc
+Priority: extra
+Maintainer: Natalia Lyubova <natalia.lyubova@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-indigo-romeo-bringup
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-naoqi-driver, ros-indigo-romeo-description, ros-indigo-romeo-sensors-py
+Description: The romeo_bringup package
