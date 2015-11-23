@@ -1,0 +1,103 @@
+ros-jade-romeo-bringup (0.1.2-0utopic) utopic; urgency=high
+
+
+
+ -- Natalia Lyubova <natalia.lyubova@gmail.com>  Tue, 20 Oct 2015 22:00:00 -0000
+
+ros-jade-romeo-bringup (0.1.1-0utopic) utopic; urgency=high
+
+  * add a cHANGELOG for romeo_bringup
+  * artifically bump romeo_bringup's version for a proper release
+  * Adding new package romeo_bringup
+  * Contributors: Vincent Rabaud, nlyubova
+  * artifically bump romeo_bringup's version for a proper release
+  * Adding new package romeo_bringup
+  * Contributors: Vincent Rabaud, nlyubova
+
+ -- Natalia Lyubova <natalia.lyubova@gmail.com>  Tue, 20 Oct 2015 22:00:00 -0000
+
+ros-jade-romeo-bringup (0.1.0-0utopic) utopic; urgency=high
+
+
+
+ -- Natalia Lyubova <natalia.lyubova@gmail.com>  Wed, 07 Oct 2015 22:00:00 -0000
+
+ros-jade-romeo-bringup (0.0.13-0utopic) utopic; urgency=high
+
+
+
+ -- Natalia Lyubova <natalia.lyubova@gmail.com>  Wed, 03 Dec 2014 23:00:00 -0000
+
+ros-jade-romeo-bringup (0.0.12-0utopic) utopic; urgency=high
+
+
+
+ -- Natalia Lyubova <natalia.lyubova@gmail.com>  Wed, 26 Nov 2014 17:58:00 -0000
+
+ros-jade-romeo-bringup (0.0.11-0utopic) utopic; urgency=high
+
+
+
+ -- Natalia Lyubova <natalia.lyubova@gmail.com>  Wed, 26 Nov 2014 13:05:00 -0000
+
+ros-jade-romeo-bringup (0.0.10-0utopic) utopic; urgency=high
+
+
+
+ -- Natalia Lyubova <natalia.lyubova@gmail.com>  Wed, 12 Nov 2014 23:00:00 -0000
+
+ros-jade-romeo-bringup (0.0.9-0utopic) utopic; urgency=high
+
+
+
+ -- Natalia Lyubova <natalia.lyubova@gmail.com>  Wed, 24 Sep 2014 22:00:00 -0000
+
+ros-jade-romeo-bringup (0.0.8-0utopic) utopic; urgency=high
+
+
+
+ -- Natalia Lyubova <natalia.lyubova@gmail.com>  Mon, 22 Sep 2014 13:09:00 -0000
+
+ros-jade-romeo-bringup (0.0.7-0utopic) utopic; urgency=high
+
+
+
+ -- Natalia Lyubova <natalia.lyubova@gmail.com>  Mon, 22 Sep 2014 08:27:00 -0000
+
+ros-jade-romeo-bringup (0.0.6-0utopic) utopic; urgency=high
+
+
+
+ -- Natalia Lyubova <natalia.lyubova@gmail.com>  Thu, 18 Sep 2014 22:00:00 -0000
+
+ros-jade-romeo-bringup (0.0.5-0utopic) utopic; urgency=high
+
+
+
+ -- Natalia Lyubova <natalia.lyubova@gmail.com>  Wed, 17 Sep 2014 22:00:00 -0000
+
+ros-jade-romeo-bringup (0.0.4-0utopic) utopic; urgency=high
+
+
+
+ -- Natalia Lyubova <natalia.lyubova@gmail.com>  Wed, 10 Sep 2014 22:00:00 -0000
+
+ros-jade-romeo-bringup (0.0.3-0utopic) utopic; urgency=high
+
+
+
+ -- Natalia Lyubova <natalia.lyubova@gmail.com>  Wed, 10 Sep 2014 16:26:00 -0000
+
+ros-jade-romeo-bringup (0.0.2-0utopic) utopic; urgency=high
+
+
+
+ -- Natalia Lyubova <natalia.lyubova@gmail.com>  Wed, 10 Sep 2014 14:03:00 -0000
+
+ros-jade-romeo-bringup (0.0.1-0utopic) utopic; urgency=high
+
+
+
+ -- Natalia Lyubova <natalia.lyubova@gmail.com>  Mon, 08 Sep 2014 22:00:00 -0000
+
+
