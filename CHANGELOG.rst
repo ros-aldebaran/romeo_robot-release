@@ -2,6 +2,11 @@
 Changelog for package romeo_dcm_driver
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.3 (2015-12-20)
+------------------
+* excluding torso controller for a moment
+* Contributors: nlyubova
+
 0.1.2 (2015-10-21)
 ------------------
 
