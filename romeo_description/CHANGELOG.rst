@@ -2,6 +2,11 @@
 Changelog for package romeo_description
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.3 (2015-12-20)
+------------------
+* fixing romeo_bringup launch and romeo_sensors_py to get data from all cameras
+* Contributors: nlyubova
+
 0.1.2 (2015-10-21)
 ------------------
 
