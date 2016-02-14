@@ -1,3 +1,34 @@
+## romeo_robot (jade) - 0.1.3-1
+
+The packages in the `romeo_robot` repository were released into the `jade` distro by running `/usr/bin/bloom-release --track jade --rosdistro jade romeo_robot` on `Sun, 14 Feb 2016 08:28:30 -0000`
+
+These packages were released:
+- `romeo_bringup`
+- `romeo_description`
+- `romeo_robot`
+- `romeo_sensors_py`
+
+These packages were explicitly ignored:
+- `romeo_dcm_bringup`
+- `romeo_dcm_control`
+- `romeo_dcm_driver`
+- `romeo_dcm_msgs`
+
+Version of package(s) in repository `romeo_robot`:
+- upstream repository: https://github.com/ros-aldebaran/romeo_robot.git
+- release repository: https://github.com/ros-aldebaran/romeo_robot-release.git
+- rosdistro version: `0.1.3-0`
+- old version: `0.1.3-0`
+- new version: `0.1.3-1`
+
+Versions of tools used:
+- bloom version: `0.5.20`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.4`
+- rosdistro version: `0.4.4`
+- vcstools version: `0.1.38`
+
+
 ## romeo_robot (indigo) - 0.1.3-1
 
 The packages in the `romeo_robot` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --track indigo --rosdistro indigo romeo_robot` on `Sun, 14 Feb 2016 08:24:50 -0000`
