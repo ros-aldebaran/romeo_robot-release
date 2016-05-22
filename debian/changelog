@@ -1,0 +1,133 @@
+ros-kinetic-romeo-description (0.1.4-0jessie) jessie; urgency=high
+
+  * fixed packages.xml
+  * Contributors: Mikael Arguedas
+
+ -- mikael arguedas <mikael.arguedas@gmail.com>  Fri, 20 May 2016 07:00:00 -0000
+
+ros-kinetic-romeo-description (0.1.3-0jessie) jessie; urgency=high
+
+  * fixing romeo_bringup launch and romeo_sensors_py to get data from all cameras
+  * Contributors: nlyubova
+
+ -- mikael arguedas <mikael.arguedas@gmail.com>  Sun, 20 Dec 2015 08:00:00 -0000
+
+ros-kinetic-romeo-description (0.1.2-0jessie) jessie; urgency=high
+
+
+
+ -- mikael arguedas <mikael.arguedas@gmail.com>  Wed, 21 Oct 2015 07:00:00 -0000
+
+ros-kinetic-romeo-description (0.1.1-0jessie) jessie; urgency=high
+
+  * update to the latest naoqi_tools script
+  * Contributors: Vincent Rabaud
+
+ -- mikael arguedas <mikael.arguedas@gmail.com>  Wed, 21 Oct 2015 07:00:00 -0000
+
+ros-kinetic-romeo-description (0.1.0-0jessie) jessie; urgency=high
+
+  * update to the latest Romeo URDF
+  * do not forget the cap
+  * update to the latest urdf from doc_urdf in NAOqi
+  * update with the latest generated URDF
+  * Contributors: Vincent Rabaud
+
+ -- mikael arguedas <mikael.arguedas@gmail.com>  Thu, 08 Oct 2015 07:00:00 -0000
+
+ros-kinetic-romeo-description (0.0.13-0jessie) jessie; urgency=high
+
+
+
+ -- mikael arguedas <mikael.arguedas@gmail.com>  Thu, 04 Dec 2014 08:00:00 -0000
+
+ros-kinetic-romeo-description (0.0.12-0jessie) jessie; urgency=high
+
+  * remove _actuator suffix from Hand joints
+  * Contributors: Mikael ARGUEDAS
+
+ -- mikael arguedas <mikael.arguedas@gmail.com>  Wed, 26 Nov 2014 08:00:00 -0000
+
+ros-kinetic-romeo-description (0.0.11-0jessie) jessie; urgency=high
+
+  * added romeo_robot metapackage
+  * added romeo cap with xtion to meshes and urdf
+  * update name for Hand actuator
+  * revert error during previous commit
+  * update xacro files and meshes
+  * Contributors: Mikael ARGUEDAS, margueda
+
+ -- mikael arguedas <mikael.arguedas@gmail.com>  Wed, 26 Nov 2014 08:00:00 -0000
+
+ros-kinetic-romeo-description (0.0.10-0jessie) jessie; urgency=high
+
+  * fix committer's name
+  * Contributors: Vincent Rabaud
+
+ -- mikael arguedas <mikael.arguedas@gmail.com>  Thu, 13 Nov 2014 08:00:00 -0000
+
+ros-kinetic-romeo-description (0.0.9-0jessie) jessie; urgency=high
+
+  * fix dependencies
+  * Contributors: margueda
+
+ -- mikael arguedas <mikael.arguedas@gmail.com>  Thu, 25 Sep 2014 07:00:00 -0000
+
+ros-kinetic-romeo-description (0.0.8-0jessie) jessie; urgency=high
+
+
+
+ -- mikael arguedas <mikael.arguedas@gmail.com>  Mon, 22 Sep 2014 07:00:00 -0000
+
+ros-kinetic-romeo-description (0.0.7-0jessie) jessie; urgency=high
+
+
+
+ -- mikael arguedas <mikael.arguedas@gmail.com>  Mon, 22 Sep 2014 07:00:00 -0000
+
+ros-kinetic-romeo-description (0.0.6-0jessie) jessie; urgency=high
+
+
+
+ -- mikael arguedas <mikael.arguedas@gmail.com>  Fri, 19 Sep 2014 07:00:00 -0000
+
+ros-kinetic-romeo-description (0.0.5-0jessie) jessie; urgency=high
+
+  * updated readme
+  * Contributors: margueda
+
+ -- mikael arguedas <mikael.arguedas@gmail.com>  Thu, 18 Sep 2014 07:00:00 -0000
+
+ros-kinetic-romeo-description (0.0.4-0jessie) jessie; urgency=high
+
+  * fix dependencies for romeo_description
+  * Contributors: Ha Dang
+  * fix dependencies for romeo_description
+  * Contributors: Ha Dang
+
+ -- mikael arguedas <mikael.arguedas@gmail.com>  Thu, 11 Sep 2014 07:00:00 -0000
+
+ros-kinetic-romeo-description (0.0.3-0jessie) jessie; urgency=high
+
+  * fixed roscpp dependencies
+  * Contributors: Ha Dang
+
+ -- mikael arguedas <mikael.arguedas@gmail.com>  Wed, 10 Sep 2014 07:00:00 -0000
+
+ros-kinetic-romeo-description (0.0.2-0jessie) jessie; urgency=high
+
+  * test ssh access
+  * Contributors: margueda
+
+ -- mikael arguedas <mikael.arguedas@gmail.com>  Wed, 10 Sep 2014 07:00:00 -0000
+
+ros-kinetic-romeo-description (0.0.1-0jessie) jessie; urgency=high
+
+  * added hands to xacro files
+  * fix pepper frames generation
+  * updated generated urdf
+  * Contributors: margueda
+
+ -- mikael arguedas <mikael.arguedas@gmail.com>  Tue, 09 Sep 2014 07:00:00 -0000
+
+
