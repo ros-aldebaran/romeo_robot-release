@@ -1,3 +1,36 @@
+## romeo_robot (kinetic) - 0.1.4-0
+
+The packages in the `romeo_robot` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --track kinetic --rosdistro kinetic --new-track romeo_robot` on `Sun, 22 May 2016 06:37:28 -0000`
+
+These packages were released:
+- `romeo_bringup`
+- `romeo_description`
+- `romeo_robot`
+- `romeo_sensors_py`
+
+These packages were explicitly ignored:
+- `romeo_dcm_bringup`
+- `romeo_dcm_control`
+- `romeo_dcm_driver`
+- `romeo_dcm_msgs`
+
+Version of package(s) in repository `romeo_robot`:
+
+- upstream repository: https://github.com/ros-aldebaran/romeo_robot.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.1.4-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.21`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.4`
+- rosdistro version: `0.4.7`
+- vcstools version: `0.1.38`
+
+
 ## romeo_robot (jade) - 0.1.3-1
 
 The packages in the `romeo_robot` repository were released into the `jade` distro by running `/usr/bin/bloom-release --track jade --rosdistro jade romeo_robot` on `Sun, 14 Feb 2016 08:28:30 -0000`
