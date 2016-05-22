@@ -2,6 +2,12 @@
 Changelog for package romeo_dcm_bringup
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.4 (2016-05-20)
+------------------
+* fixed packages.xml
+* adding a launch file for position controllers
+* Contributors: Mikael Arguedas, nlyubova
+
 0.1.3 (2015-12-20)
 ------------------
 

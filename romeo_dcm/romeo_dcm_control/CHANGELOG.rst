@@ -2,6 +2,9 @@
 Changelog for package romeo_dcm_control
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.4 (2016-05-20)
+------------------
+
 0.1.3 (2015-12-20)
 ------------------
 * excluding torso controller for a moment
