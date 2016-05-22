@@ -1,0 +1,12 @@
+Source: ros-kinetic-romeo-robot
+Section: misc
+Priority: extra
+Maintainer: Mikael Arguedas <mikael.arguedas@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-romeo-robot
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-romeo-bringup, ros-kinetic-romeo-description, ros-kinetic-romeo-sensors-py
+Description: The romeo_robot metapackage
