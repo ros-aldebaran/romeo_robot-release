@@ -10,7 +10,6 @@ These packages were released:
 
 These packages were explicitly ignored:
 - `romeo_dcm_bringup`
-- `romeo_dcm_control`
 - `romeo_dcm_driver`
 - `romeo_dcm_msgs`
 
