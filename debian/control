@@ -1,0 +1,12 @@
+Source: ros-kinetic-romeo-sensors-py
+Section: misc
+Priority: extra
+Maintainer: Natalia Lyubova <natalia.lyubova@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-romeo-sensors-py
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-cv-bridge, ros-kinetic-naoqi-sensors-py, ros-kinetic-rospy
+Description: Package that adds the depth camera to Romeo
