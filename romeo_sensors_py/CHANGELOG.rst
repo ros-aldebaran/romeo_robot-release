@@ -2,6 +2,15 @@
 Changelog for package romeo_sensors
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.5 (2017-01-20)
+------------------
+* update maintainers
+* make Natalia a maintainer
+* Contributors: Mikael Arguedas, Vincent Rabaud
+
+0.1.4 (2016-05-20)
+------------------
+
 0.1.3 (2015-12-20)
 ------------------
 * fixing romeo_bringup launch and romeo_sensors_py to get data from all cameras
