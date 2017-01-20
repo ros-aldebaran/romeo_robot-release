@@ -1,0 +1,12 @@
+Source: ros-jade-romeo-description
+Section: misc
+Priority: extra
+Maintainer: Surya Ambrose <surya.ambrose@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-jade-catkin, ros-jade-message-filters, ros-jade-roscpp, ros-jade-sensor-msgs, ros-jade-tf, ros-jade-urdf, ros-jade-xacro
+Homepage: http://wiki.ros.org/romeo_description
+Standards-Version: 3.9.2
+
+Package: ros-jade-romeo-description
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-jade-message-filters, ros-jade-robot-state-publisher, ros-jade-roscpp, ros-jade-sensor-msgs, ros-jade-tf, ros-jade-urdf, ros-jade-xacro
+Description: The romeo_description package
