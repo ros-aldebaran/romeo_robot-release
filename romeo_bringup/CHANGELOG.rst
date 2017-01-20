@@ -2,6 +2,16 @@
 Changelog for package romeo_bringup
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.5 (2017-01-20)
+------------------
+* update maintainers
+* Contributors: Mikael Arguedas
+
+0.1.4 (2016-05-20)
+------------------
+* fixed packages.xml
+* Contributors: Mikael Arguedas
+
 0.1.3 (2015-12-20)
 ------------------
 * fixing romeo_bringup launch and romeo_sensors_py to get data from all cameras
