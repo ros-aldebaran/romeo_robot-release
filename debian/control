@@ -1,0 +1,12 @@
+Source: ros-jade-romeo-robot
+Section: misc
+Priority: extra
+Maintainer: Surya Ambrose <surya.ambrose@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-jade-catkin
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-jade-romeo-robot
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-jade-romeo-bringup, ros-jade-romeo-description, ros-jade-romeo-sensors-py
+Description: The romeo_robot metapackage
