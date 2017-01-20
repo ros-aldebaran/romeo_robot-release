@@ -1,0 +1,12 @@
+Source: ros-kinetic-romeo-description
+Section: misc
+Priority: extra
+Maintainer: Surya Ambrose <surya.ambrose@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin, ros-kinetic-message-filters, ros-kinetic-roscpp, ros-kinetic-sensor-msgs, ros-kinetic-tf, ros-kinetic-urdf, ros-kinetic-xacro
+Homepage: http://wiki.ros.org/romeo_description
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-romeo-description
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-message-filters, ros-kinetic-robot-state-publisher, ros-kinetic-roscpp, ros-kinetic-sensor-msgs, ros-kinetic-tf, ros-kinetic-urdf, ros-kinetic-xacro
+Description: The romeo_description package
